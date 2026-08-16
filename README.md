@@ -7,6 +7,7 @@ A collection of my LeetCode solutions for Data Structures & Algorithms, organize
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Roshandabhere1/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0136-single-number](https://github.com/Roshandabhere1/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Roshandabhere1/LeetCode-Solutions/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
@@ -44,4 +45,8 @@ A collection of my LeetCode solutions for Data Structures & Algorithms, organize
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Roshandabhere1/LeetCode-Solutions/tree/master/0189-rotate-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Roshandabhere1/LeetCode-Solutions/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
