@@ -7,6 +7,7 @@ A collection of my LeetCode solutions for Data Structures & Algorithms, organize
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Roshandabhere1/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0189-rotate-array](https://github.com/Roshandabhere1/LeetCode-Solutions/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of my LeetCode solutions for Data Structures & Algorithms, organize
 | ------- |
 | [0002-add-two-numbers](https://github.com/Roshandabhere1/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Roshandabhere1/LeetCode-Solutions/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/Roshandabhere1/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [1518-water-bottles](https://github.com/Roshandabhere1/LeetCode-Solutions/tree/master/1518-water-bottles) |
 ## Recursion
 |  |
@@ -38,4 +40,8 @@ A collection of my LeetCode solutions for Data Structures & Algorithms, organize
 |  |
 | ------- |
 | [1518-water-bottles](https://github.com/Roshandabhere1/LeetCode-Solutions/tree/master/1518-water-bottles) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/Roshandabhere1/LeetCode-Solutions/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
