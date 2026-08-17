@@ -9,11 +9,13 @@ A collection of my LeetCode solutions for Data Structures & Algorithms, organize
 | [0001-two-sum](https://github.com/Roshandabhere1/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/Roshandabhere1/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Roshandabhere1/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Roshandabhere1/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Roshandabhere1/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Roshandabhere1/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0268-missing-number](https://github.com/Roshandabhere1/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Linked List
 |  |
 | ------- |
@@ -24,6 +26,7 @@ A collection of my LeetCode solutions for Data Structures & Algorithms, organize
 | [0002-add-two-numbers](https://github.com/Roshandabhere1/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Roshandabhere1/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/Roshandabhere1/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Roshandabhere1/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [1518-water-bottles](https://github.com/Roshandabhere1/LeetCode-Solutions/tree/master/1518-water-bottles) |
 ## Recursion
 |  |
@@ -49,4 +52,13 @@ A collection of my LeetCode solutions for Data Structures & Algorithms, organize
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Roshandabhere1/LeetCode-Solutions/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Roshandabhere1/LeetCode-Solutions/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Roshandabhere1/LeetCode-Solutions/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Roshandabhere1/LeetCode-Solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
