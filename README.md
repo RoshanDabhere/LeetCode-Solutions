@@ -7,6 +7,7 @@ A collection of my LeetCode solutions for Data Structures & Algorithms, organize
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Roshandabhere1/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/RoshanDabhere/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0136-single-number](https://github.com/Roshandabhere1/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Roshandabhere1/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Roshandabhere1/LeetCode-Solutions/tree/master/0268-missing-number) |
@@ -39,6 +40,7 @@ A collection of my LeetCode solutions for Data Structures & Algorithms, organize
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Roshandabhere1/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Roshandabhere1/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/RoshanDabhere/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 ## Sliding Window
 |  |
 | ------- |
@@ -64,4 +66,8 @@ A collection of my LeetCode solutions for Data Structures & Algorithms, organize
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Roshandabhere1/LeetCode-Solutions/tree/master/0268-missing-number) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/RoshanDabhere/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
