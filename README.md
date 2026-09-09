@@ -22,6 +22,7 @@ A collection of my LeetCode solutions for Data Structures & Algorithms, organize
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Roshandabhere1/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/RoshanDabhere/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 ## Math
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of my LeetCode solutions for Data Structures & Algorithms, organize
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Roshandabhere1/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/RoshanDabhere/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 ## String
 |  |
 | ------- |
