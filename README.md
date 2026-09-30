@@ -9,6 +9,7 @@ A collection of my LeetCode solutions for Data Structures & Algorithms, organize
 | [0001-two-sum](https://github.com/Roshandabhere1/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/RoshanDabhere/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RoshanDabhere/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/RoshanDabhere/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/Roshandabhere1/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Roshandabhere1/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Roshandabhere1/LeetCode-Solutions/tree/master/0268-missing-number) |
@@ -66,6 +67,7 @@ A collection of my LeetCode solutions for Data Structures & Algorithms, organize
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/RoshanDabhere/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Roshandabhere1/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Sorting
 |  |
