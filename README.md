@@ -14,6 +14,7 @@ A collection of my LeetCode solutions for Data Structures & Algorithms, organize
 | [0136-single-number](https://github.com/Roshandabhere1/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Roshandabhere1/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Roshandabhere1/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0922-sort-array-by-parity-ii](https://github.com/RoshanDabhere/LeetCode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of my LeetCode solutions for Data Structures & Algorithms, organize
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RoshanDabhere/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/RoshanDabhere/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/Roshandabhere1/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0922-sort-array-by-parity-ii](https://github.com/RoshanDabhere/LeetCode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -76,6 +78,7 @@ A collection of my LeetCode solutions for Data Structures & Algorithms, organize
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Roshandabhere1/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0922-sort-array-by-parity-ii](https://github.com/RoshanDabhere/LeetCode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
 ## Trie
 |  |
 | ------- |
