@@ -35,6 +35,7 @@ A collection of my LeetCode solutions for Data Structures & Algorithms, organize
 | [0009-palindrome-number](https://github.com/Roshandabhere1/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Roshandabhere1/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/RoshanDabhere/LeetCode-Solutions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/RoshanDabhere/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/Roshandabhere1/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Roshandabhere1/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [1518-water-bottles](https://github.com/Roshandabhere1/LeetCode-Solutions/tree/master/1518-water-bottles) |
@@ -51,6 +52,7 @@ A collection of my LeetCode solutions for Data Structures & Algorithms, organize
 | [0014-longest-common-prefix](https://github.com/RoshanDabhere/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/RoshanDabhere/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/RoshanDabhere/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/RoshanDabhere/LeetCode-Solutions/tree/master/0067-add-binary) |
 ## Sliding Window
 |  |
 | ------- |
@@ -58,6 +60,7 @@ A collection of my LeetCode solutions for Data Structures & Algorithms, organize
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/RoshanDabhere/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [1518-water-bottles](https://github.com/Roshandabhere1/LeetCode-Solutions/tree/master/1518-water-bottles) |
 ## Two Pointers
 |  |
@@ -69,6 +72,7 @@ A collection of my LeetCode solutions for Data Structures & Algorithms, organize
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/RoshanDabhere/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Roshandabhere1/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Roshandabhere1/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Binary Search
